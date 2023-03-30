@@ -13,7 +13,7 @@
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
-### [HERE](https://fsjs-color-changer-javascript-project.netlify.app/)
+### [HERE](https://fsjs-see-what-you-type-js-project.netlify.app/)
 
 ***
 
